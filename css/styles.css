@@ -282,21 +282,17 @@ img { max-width: 100%; display: block; }
 
 .photo-name {
   position: absolute;
-  bottom: -0.5rem;
+  bottom: -1.2rem;
   left: 50%;
   transform: translateX(-50%);
-  background: var(--navy-deep);
-  border: 1px solid var(--gold);
-  border-radius: 30px;
-  padding: 0.5rem 1.3rem;
   font-family: var(--font-display);
-  font-weight: 600;
-  font-size: 0.9rem;
-  color: var(--text-light);
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: var(--gold-bright);
   white-space: nowrap;
   z-index: 2;
+  letter-spacing: 0.01em;
 }
-
 /* ============================================================
    FLOATING QUERY BADGE — fixed position, never affects layout
    ============================================================ */
