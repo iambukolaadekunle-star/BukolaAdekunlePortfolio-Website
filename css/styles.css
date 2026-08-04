@@ -299,7 +299,7 @@ img { max-width: 100%; display: block; }
 
 .photo-title {
   position: absolute;
-  bottom: 1.0rem; /* sits directly under the name */
+  bottom: 0.6rem; /* sits directly under the name */
   left: 48%;
   transform: translateX(-50%);
   font-family: var(--font-mono);
