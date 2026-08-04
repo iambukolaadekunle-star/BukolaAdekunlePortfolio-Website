@@ -246,7 +246,7 @@ img { max-width: 100%; display: block; }
   align-items: center;
   justify-content: center;
   min-height: 460px;
-  margin-top: -2.5rem; /* moves the whole photo block up */
+  margin-top: -2rem; /* moves the whole photo block up */
 }
 
 .photo-glow {
@@ -284,7 +284,7 @@ img { max-width: 100%; display: block; }
 
 .photo-name {
   position: absolute;
-  bottom: 0.9rem; /* moved up from -0.5rem */
+  bottom: 1.2rem; /* moved up from -0.5rem */
   left: 50%;
   transform: translateX(-50%);
   font-family: var(--font-display);
