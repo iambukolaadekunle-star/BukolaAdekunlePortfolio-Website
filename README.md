@@ -1,68 +1,71 @@
-# Bukola Adekunle — Data Analyst Portfolio (v3)
+# Bukola Adekunle - Personal Portfolio Website
 
-5 pages: Home, About, Projects, Résumé, Contact. Navy is the dominant color
-throughout; beige and gold are supporting/accent colors.
+[![Live Website](https://shields.io)](https://iambukolaadekunle-star.github.io/BukolaAdekunlePortfolio-Website/)
 
-## Before hosting — fill these in
+> *"I don't just analyze data; I study how businesses think."*
 
-1. **Your bold photo (transparent PNG)** — once you have your background-removed
-   cutout ready, add it to `images/profile-cutout.png`. Then in `index.html`,
-   find this block in the hero:
-   ```html
-   <div class="photo-bold-wrap">
-     <div class="photo-glow"></div>
-     <div class="avatar-fallback">BA</div>
-     <div class="photo-name">Bukola Adekunle</div>
-   </div>
+Welcome to the repository for my professional portfolio website! This site serves as my digital home to showcase how I leverage data to uncover inefficiencies, simplify operational complexities, and empower modern organizations to make strategic decisions with clear confidence. 
+
+As a **Data Analyst, BI Specialist, and Business Systems Analyst**, my work focuses heavily on workflow optimization, predictive accuracy, and direct conversion performance.
+
+---
+
+## 📈 Impact Highlights
+The design and projects hosted on this website reflect my professional capacity to drive measurable business value:
+* **40% Reduction** in manual operational reporting workloads.
+* **12% Gain** in predictive forecasting model accuracy.
+* **7% Lift** in user conversion rate optimization.
+* **3+ Years** of hands-on BI, analytics, and systems experience.
+
+---
+
+## 🗺️ Website Architecture & Navigation
+
+The portfolio is structured into four main areas to create an intuitive user journey for potential employers and collaborators:
+
+* **01 | About Me:** A summary of my background in data, core technical expertise, domain competencies, and academic foundation.
+* **02 | Projects:** A curated gallery of business intelligence dashboards, exploratory data analyses (EDA), workflows, and strategic data case studies.
+* **03 | Résumé:** A direct download link to my comprehensive, up-to-date professional PDF résumé.
+* **04 | Contact:** An interactive gateway and information hub designed for sharing opportunities or starting data-driven collaborations.
+
+---
+
+## 🛠️ Technology Stack & Skills Represented
+While the frontend of this website presents the information beautifully, the core analytical skillsets showcased across the projects include:
+* **Business Intelligence:** Microsoft Power BI, Google Looker Studio, Tableau
+* **Data Processing & Analytics:** Python (Pandas, NumPy), SQL (Advanced querying, optimization)
+* **Systems & Workflow:** Business Systems Analysis, Process Automation, Manual-to-Automated reporting migrations
+
+---
+
+## 🚀 Getting Started
+
+If you want to view, clone, or run this portfolio site locally for your own inspiration, follow these steps:
+
+### Prerequisites
+You only need a modern web browser installed on your computer.
+
+### Local Installation
+1. Clone this repository to your machine:
+   ```bash
+   git clone https://github.com
    ```
-   Replace the `avatar-fallback` line with:
-   ```html
-   <img src="images/profile-cutout.png" class="photo-bold" alt="Bukola Adekunle">
+2. Navigate into the project folder:
+   ```bash
+   cd BukolaAdekunlePortfolio-Website
    ```
-   The gold glow and name badge stay — they're separate elements, already styled
-   to sit behind/below the photo.
+3. Open the main webpage file in your favorite browser:
+   ```bash
+   open index.html
+   ```
 
-2. **Your intro video** — add it to `videos/intro.mp4` (must be a real `.mp4`
-   file). It's already wired up in `index.html`'s video section.
+---
 
-3. **Email & LinkedIn** — in `contact.html`, replace `your.email@example.com`
-   and the `href="#"` LinkedIn link with your real ones.
+## 🤝 Let's Connect!
+I am always open to discussing data analytics, business intelligence consulting, or full-time opportunities.
 
-4. **More projects later** — open `projects.html`, find the
-   `<!-- Placeholder for future projects -->` comment near the bottom of the
-   case-study grid, and add new `.card.case-card` blocks above it (copy an
-   existing one as a template).
+* **Portfolio Website:** [iambukolaadekunle-star.github.io](https://iambukolaadekunle-star.github.io/BukolaAdekunlePortfolio-Website/)
+* **LinkedIn:** [Bukola Adekunle](https://www.linkedin.com/) *(Update with your direct link!)*
 
-## Design notes
-- **Colors**: navy is the page background everywhere (nav, hero, footer, and
-  alternating sections); beige is used only for card/panel surfaces so text
-  stays readable; gold is the accent for buttons, numbers, and highlights.
-- **Hero visuals**: a soft gradient plus a low-opacity decorative bar/line/donut
-  chart graphic sit behind the text for visual interest — not meant to be
-  read literally, just texture.
-- **The "running query" animation** is no longer inside the hero (it used to
-  make the page reflow as it typed). It's now a small fixed badge in the
-  bottom-right corner of every page — since it's fixed-position, it floats
-  over the page and can never push other content around.
-
-## Folder structure
-```
-da-site/
-├── index.html      (Home)
-├── about.html
-├── projects.html
-├── resume.html
-├── contact.html
-├── css/styles.css
-├── js/script.js     (nav, active-link highlight, floating query badge)
-├── js/contact.js     (form validation)
-├── images/           (put profile-cutout.png here)
-├── videos/           (put intro.mp4 here)
-└── assets/Bukola_Adekunle_Resume.pdf
-```
-
-## Hosting (GitHub Pages via GitHub Desktop — recommended)
-1. Create a repo (e.g. `data-analyst-portfolio`).
-2. In GitHub Desktop: File → New Repository → point it at this folder's contents → Publish (uncheck "private").
-3. Repo → Settings → Pages → Source: `main` branch, `/ (root)` → Save.
-4. Live at: `https://<your-username>.github.io/data-analyst-portfolio/`
+---
+*© 2026 Bukola Adekunle. Built with precision, driven by data.*
