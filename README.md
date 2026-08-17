@@ -64,7 +64,7 @@ You only need a modern web browser installed on your computer.
 I am always open to discussing data analytics, business intelligence consulting, or full-time opportunities.
 
 * **Portfolio Website:** [iambukolaadekunle-star.github.io](https://iambukolaadekunle-star.github.io/BukolaAdekunlePortfolio-Website/)
-* **LinkedIn:** [Bukola Adekunle](https://www.linkedin.com/) *(Update with your direct link!)*
+* **LinkedIn:** [Bukola Adekunle](https://www.linkedin.com/in/bukolaadekunle/)
 
 ---
 *© 2026 Bukola Adekunle. Built with precision, driven by data.*
