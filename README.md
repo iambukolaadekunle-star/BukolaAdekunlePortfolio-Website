@@ -7,7 +7,7 @@
 Welcome to the repository for my professional portfolio website! This site serves as my digital home to showcase how I leverage data to uncover inefficiencies, simplify operational complexities, and empower modern organizations to make strategic decisions with clear confidence. 
 
 As a **Data Analyst, BI Specialist, and Business Systems Analyst**, my work focuses heavily on workflow optimization, predictive accuracy, and direct conversion performance.
-
+[Portfolio Home](assets/screenshot.png)
 ---
 
 ## 📈 Impact Highlights
